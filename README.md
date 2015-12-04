@@ -1,0 +1,6 @@
+# FragmentSample
+
+リスナーを使ってActivityからFragmentにデータや通知を送るサンプル
+
+ActionBarのSendボタンを押すとTab1の文面が変わる
+Tab2はダミー
